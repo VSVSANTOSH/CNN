@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow
+torch
+torchvision
+scikit-learn
+tensorflow
+scikit-image
+Pillow
+keras
+opencv-python
+opencv-contrib-python
+opencv-python-headless
+-e .
